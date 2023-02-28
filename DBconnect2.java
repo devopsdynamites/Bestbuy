@@ -3,3 +3,6 @@ gaelle
 tintin
 fernande
 bijoux
+charlie
+james
+manager
