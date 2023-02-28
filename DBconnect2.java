@@ -6,3 +6,4 @@ bijoux
 charlie
 james
 manager
+goat
